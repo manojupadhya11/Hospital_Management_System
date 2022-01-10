@@ -1,0 +1,10 @@
+---------------------------------------------------------------------------------
+Did      Dname   Specialization  Visit_time      Qualification       RoomNumber
+---------------------------------------------------------------------------------
+10	 Dr.manoj	 ortho		 9AM-6PM	 MBBS		 19  
+12	 Dr.suraj	 neuro		 9PM-12AM	 MBBS,MD	 186  
+16	 Dr.Mahima	 neuro		 9AM-2PM	 MBBS		 10  
+21	 Dr.ghanendra	 ENT		 5-11AM	         MBBS,MD	 17  
+32	 Dr.Vikram	 Physician	 10PM-3AM	 MBBS,MD	 45  
+17	 Dr.Rekha	 Surgeon	 8PM-2AM	 BDM		 8  
+33	 Dr.pramod	 Ortho		 10AM-4PM	 MBBS,MS	 10  

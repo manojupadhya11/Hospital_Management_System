@@ -1,0 +1,9 @@
+-------------------------------------------------
+Name             Company   Exp_date      Cost
+-------------------------------------------------
+paracetamol	 cipla	   11-06-22	 16 
+citrizin	 cipla	   11-12-23	 800 
+Corex	         Cino tvt   9-5-23	 65 
+Nytra	         Acepvt	    4-4-22	 500 
+Purfa	         Reckitt   12-7-22	 50 
+Pride	         Cipla	   12-4-22	 11 

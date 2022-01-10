@@ -1,0 +1,10 @@
+----------------------------------------------------------
+Pid      Pname              Disease      Gender   Age 
+----------------------------------------------------------
+1962	 kariappa 	    malaria	 male     60  
+1964	 monappa 	    covid19	 male 	  56  
+1987	 maria 	            cancer	 female   82 
+1912	 Pankaj 	    Cancer	 Male     30 
+1913	 sumit 	            cold	 male     23 
+1916	 alok 	            maleriya	 male     45 
+1936	 Maria 	            Omicron	 Female   25 
